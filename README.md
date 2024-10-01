@@ -4,6 +4,11 @@ Es una herramienta de código abierto en Python utilizada para extraer datos de 
 Permite navegar por páginas web, extraer información específica (como texto, imágenes, enlaces), y guardarla en varios formatos,
 como archivos CSV o bases de datos. Scrapy facilita el scraping masivo y estructurado, ideal para proyectos que requieren recopilar grandes cantidades de datos desde la web de manera eficiente.
 
+## Riesgos legales del web scraping
+
+Por muy útil que sea el web scraping, también conlleva algunos riesgos legales. Dado que el operador del sitio web ha querido que su sitio web sea utilizado por humanos,
+la recuperación automática de datos mediante web scrapers puede constituir una violación de los términos de uso
+
 ## Carecteristicas
 
 <ul>
