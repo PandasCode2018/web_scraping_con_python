@@ -21,7 +21,7 @@ la recuperación automática de datos mediante web scrapers puede constituir una
 
 <ul>
   <li>Python</li>
-  <li></li>
+  <li>Selenium</li>
   <li></li>
   <li></li>
   <li></li>
