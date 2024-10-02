@@ -22,7 +22,7 @@ la recuperación automática de datos mediante web scrapers puede constituir una
 <ul>
   <li>Python</li>
   <li>Selenium</li>
-  <li>ChromeDriver verison 12 "version suministrada, si requiere otra version, debe descargar y modificar el valor de la constante "</li>
+  <li>ChromeDriver verison 12 "Si require otra version debe descargarla"</li>
   <li></li>
   <li></li>
 </ul>
